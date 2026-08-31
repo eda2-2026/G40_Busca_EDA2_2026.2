@@ -8,7 +8,7 @@ O projeto tem como objetivo implementar e analisar diferentes **algoritmos de bu
 | Matrícula | Nome |
 | --- | --- |
 | 202023805 | João Paulo Barros de Cristo |
-| --- | LucasOliveiraDiasMarquesFerreira  |
+| 211062787 |LucasOliveiraDiasMarquesFerreira  |
 
 **Disciplina:** Estrutura de Dados 2  
 **Professor:** Mauricio Serrano
