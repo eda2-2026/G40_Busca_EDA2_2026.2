@@ -1,5 +1,4 @@
 
-
 def busca_sequencial(jogos, id_procurado):
 
     comparacoes = 0  # Contador de comparações
