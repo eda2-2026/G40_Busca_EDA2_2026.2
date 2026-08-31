@@ -45,9 +45,9 @@ O trabalho contempla os seguintes algoritmos:
 | Algoritmo | Status |
 | --- | --- |
 | Busca Sequencial | ✅ Implementado |
-| Busca Binária | ⏳ A implementar |
+| Busca Binária | ✅ Implementado |
 | Hash Estático | ✅ Implementado |
-| Hash Dinâmico | ⏳ A implementar |
+| Hash Dinâmico | ✅ Implementado |
 
 ## 🗂️ Estrutura do Projeto
 
@@ -59,6 +59,10 @@ G40_Busca_EDA2_2026.2/
 ├── README.md
 ├── dados/
 │   └── Planilha de Games.xlsx
+├── modelos/
+│    └──jogos.py
+├── utils/
+│    └──carregador.py
 │
 ├── buscas/
 │   └── sequencial.py
@@ -67,10 +71,10 @@ G40_Busca_EDA2_2026.2/
 │   └── hash_estatico.py
 │
 ├── buscas/
-│   └── ...
+│   └── hash_dinamico.py
 │
 └── buscas/
-    └── ...
+    └── binaria.py
 ```
 
 ## 🚧 Status do Projeto
@@ -79,8 +83,9 @@ Atualmente, foram implementados:
 
 - ✅ Busca Sequencial
 - ✅ Hash Estático
+- ✅ Busca Binária
+- ✅ Hash Dinâmico
 
-Ainda serão implementados:
+  ## Apresentação 
 
-- ⏳ Busca Binária
-- ⏳ Hash Dinâmico
+  https://youtu.be/wVe_tCk8GjE
